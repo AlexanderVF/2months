@@ -1,0 +1,15 @@
+F:\Обучение\ГикБрейнс\Репозитории\2months_end\task1\bin\Debug\net6.0\task1.exe
+F:\Обучение\ГикБрейнс\Репозитории\2months_end\task1\bin\Debug\net6.0\task1.deps.json
+F:\Обучение\ГикБрейнс\Репозитории\2months_end\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+F:\Обучение\ГикБрейнс\Репозитории\2months_end\task1\bin\Debug\net6.0\task1.dll
+F:\Обучение\ГикБрейнс\Репозитории\2months_end\task1\bin\Debug\net6.0\task1.pdb
+F:\Обучение\ГикБрейнс\Репозитории\2months_end\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+F:\Обучение\ГикБрейнс\Репозитории\2months_end\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Обучение\ГикБрейнс\Репозитории\2months_end\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+F:\Обучение\ГикБрейнс\Репозитории\2months_end\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+F:\Обучение\ГикБрейнс\Репозитории\2months_end\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+F:\Обучение\ГикБрейнс\Репозитории\2months_end\task1\obj\Debug\net6.0\task1.dll
+F:\Обучение\ГикБрейнс\Репозитории\2months_end\task1\obj\Debug\net6.0\refint\task1.dll
+F:\Обучение\ГикБрейнс\Репозитории\2months_end\task1\obj\Debug\net6.0\task1.pdb
+F:\Обучение\ГикБрейнс\Репозитории\2months_end\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
+F:\Обучение\ГикБрейнс\Репозитории\2months_end\task1\obj\Debug\net6.0\ref\task1.dll
