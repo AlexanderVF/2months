@@ -6,6 +6,7 @@
 string[] Array = new string[] {"first", "new", "hotel", "2", ";-)", "super"};
 int count = 0;
 
+
 for (int i = 0; i < Array.Length; i++)
 {
     Console.Write($"{Array[i]},");
